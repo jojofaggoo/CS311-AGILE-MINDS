@@ -1,0 +1,16 @@
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\bin\Debug\net8.0-windows\Tiny_College_Course_Management_System.exe
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\bin\Debug\net8.0-windows\Tiny_College_Course_Management_System.deps.json
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\bin\Debug\net8.0-windows\Tiny_College_Course_Management_System.runtimeconfig.json
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\bin\Debug\net8.0-windows\Tiny_College_Course_Management_System.dll
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\bin\Debug\net8.0-windows\Tiny_College_Course_Management_System.pdb
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\Tiny_College_Course_Management_System.Form1.resources
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\Tiny_College_Course_Management_System.csproj.GenerateResource.cache
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\Tiny_College_Course_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\Tiny_College_Course_Management_System.AssemblyInfoInputs.cache
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\Tiny_College_Course_Management_System.AssemblyInfo.cs
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\Tiny_College_Course_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\Tiny_College_Course_Management_System.dll
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\refint\Tiny_College_Course_Management_System.dll
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\Tiny_College_Course_Management_System.pdb
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\Tiny_College_Course_Management_System.genruntimeconfig.cache
+C:\Users\ljfag\Desktop\CISS 311\ADVANCED AGILE\Tiny_College_Course_Management_System\obj\Debug\net8.0-windows\ref\Tiny_College_Course_Management_System.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tiny_College_Course_Management_System/1.0.0": {
+        "runtime": {
+          "Tiny_College_Course_Management_System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tiny_College_Course_Management_System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
