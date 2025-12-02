@@ -25,7 +25,71 @@ Submit your Sprint 1 notes including:
 2. user story / stories you have completed so far
 3. user story / stories you will complete next
 4. any blockers you have and how your team will address them
-   Our Sprint 1 notes are here: 
+   Our Sprint 1 notes are here:
+  *********************************************** Sprint 1 Report*************************************************
+1.	Audrey Gamble 
+2.	Joe Fague
+3.	Tynisha Walters  
+4.	Jahmai Hawkins  
+5.	Sandrin Tebo  
+6.	Jacob Decker 
+
+
+1. I completed the basic system layout and user navigation (User Story #7).
+User Story #7 says the main form should have:
+•	A button For Administrators
+•	A button For Instructors
+•	A button For Students
+I completed this part.
+My system now has:
+•	A working MainForm
+•	Three buttons for Admin, Instructor, and Student
+•	Clicking each button opens the correct form
+•	Each form loads successfully with no errors
+•	
+ 
+2. I created the required forms for each user type.
+These forms now exist in the project:
+•	AdminForm
+•	InstructorForm
+•	StudentForm
+Each form opens correctly from the main menu.
+
+3. I fixed naming issues and event handler problems.
+During Sprint 1, I resolved:
+•	InitializeComponent() errors
+•	Event handler mismatches
+•	Designer wiring issues (e.g., btnAdmin_Click_1)
+•	Form renaming (Form1 → MainForm)
+All forms now compile and run without errors.
+
+Next Story #1 — Add instructors (User Story #1)
+This will require:
+•	Input fields
+•	Save to database
+•	Create instructor table
+Next Story #2 — Add students (User Story #2)
+This will require:
+•	Student input fields
+•	Save to database
+Next Story #3 — Add new courses (User Story #3)
+This includes:
+•	Assign instructor
+•	Seat count
+•	Registration availability
+These will all require connecting the system to the TCCM_DB.sql database.
+
+These are some of the blocker that happen.
+Blocker 1 — Buttons were not working
+•	Caused by event handler names like btnAdmin_Click_1
+•	Fixed by updating Designer event wiring
+Blocker 2 — InitializeComponent() error
+•	Caused by renaming Form1 incorrectly
+•	Fixed by correcting names in .cs and .Designer.cs
+Blocker 3 — Missing forms
+•	Program crashed when AdminForm, InstructorForm, StudentForm didn’t exist
+•	Fixed by creating each form properly
+************************************************End of Sprint 1 Notes **********************************************
 
 Sprint 2 Notes - Assignment Due December 7 at 11:59 PM
 Submit your Sprint 2 notes including:
