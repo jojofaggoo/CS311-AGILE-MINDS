@@ -25,6 +25,7 @@ Submit your Sprint 1 notes including:
 2. user story / stories you have completed so far
 3. user story / stories you will complete next
 4. any blockers you have and how your team will address them
+   Our Sprint 1 notes are here: 
 
 Sprint 2 Notes - Assignment Due December 7 at 11:59 PM
 Submit your Sprint 2 notes including:
