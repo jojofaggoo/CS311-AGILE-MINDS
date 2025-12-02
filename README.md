@@ -26,6 +26,7 @@ Submit your Sprint 1 notes including:
 3. user story / stories you will complete next
 4. any blockers you have and how your team will address them
    Our Sprint 1 notes are here:
+   
   *********************************************** Sprint 1 Report*************************************************
 1.	Audrey Gamble 
 2.	Joe Fague
@@ -89,6 +90,7 @@ Blocker 2 — InitializeComponent() error
 Blocker 3 — Missing forms
 •	Program crashed when AdminForm, InstructorForm, StudentForm didn’t exist
 •	Fixed by creating each form properly
+
 ************************************************End of Sprint 1 Notes **********************************************
 
 Sprint 2 Notes - Assignment Due December 7 at 11:59 PM
